@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm jaeeun Lee</h1>
 <!-- <h3 align="center">A frontend developer</h3> -->
 
-- 🌱 I’m currently learning **React, typescript**
+- 🌱 I’m currently learning **React, typescript, NextJS**
 
 - 📫 How to reach me **jaeelee.dev@gmail.com**
 
