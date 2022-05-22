@@ -3,8 +3,12 @@
 
 - 🌱 I’m currently learning **React, typescript, NextJS**
 
+- 📝 I regularly write articles on [github-discussion](https://github.com/jaeelee/jaeelee/discussions)
+
 - 📫 How to reach me **jaeelee.dev@gmail.com**
 
+- 📄 Know about my experiences [jaeeunLee-resume](https://charm-hoof-516.notion.site/7094854d6bc248a5b4fa2729b40c71d8)
+- 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p> -->
@@ -21,7 +25,15 @@
 </p>
 <!-- <div align="center"> -->
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeelee&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaeelee&show_icons=true&locale=en&layout=compact" alt="jaeelee" /></p> -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeelee&show_icons=true&locale=en" alt="jaeelee" /></p>
+
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaeelee&" alt="jaeelee" /></p> -->
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeelee&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeelee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div> -->
@@ -39,3 +51,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
