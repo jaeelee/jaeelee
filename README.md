@@ -8,7 +8,7 @@
 - 📫 How to reach me **jaeelee.dev@gmail.com**
 
 - 📄 Know about my experiences [jaeeunLee-resume](https://charm-hoof-516.notion.site/7094854d6bc248a5b4fa2729b40c71d8)
-- 
+
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p> -->
