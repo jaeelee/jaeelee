@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, typescript, NextJS**
 
-- 📝 I regularly write articles on [velog](https://velog.io/@jaeelee)
+<!-- - 📝 I regularly write articles on [velog](https://velog.io/@jaeelee) -->
 
 - 📫 How to reach me **jaeelee.dev@gmail.com**
 
