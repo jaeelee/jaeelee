@@ -1,54 +1,11 @@
-<h1 align="center">Hi 👋, I'm jaeeun Lee</h1>
-<!-- <h3 align="center">A frontend developer</h3> -->
+## Jae-eun Lee — Frontend Developer
 
-- 🌱 I’m currently learning **React, typescript, NextJS**
+I'm a frontend developer specializing in **React and React Native**, focusing on service architecture and performance optimization.  
+I enjoy solving problems from real-world services, improving **code maintainability and quality**.
 
-<!-- - 📝 I regularly write articles on [velog](https://velog.io/@jaeelee) -->
+I’ve worked on build automation, state management architecture, and code quality tools,  
+and I’m currently expanding my understanding of **API and backend data flow** through collaboration.
 
-- 📫 How to reach me **jaeelee.dev@gmail.com**
-
-- 📄 Know about my experiences [jaeeunLee-resume](https://charm-hoof-516.notion.site/7094854d6bc248a5b4fa2729b40c71d8)
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p> -->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p>
-<!-- <div align="center"> -->
-  
-
-<!-- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaeelee&show_icons=true&locale=en&layout=compact" alt="jaeelee" /></p> -->
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeelee&show_icons=true&locale=en" alt="jaeelee" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaeelee&" alt="jaeelee" /></p> -->
-
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeelee&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeelee&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div> -->
-<!--
-**jaeelee/jaeelee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+> ⚙️ Tech Stack: JavaScript, TypeScript, React, React Native  
+> 🧩 Tools: Git, Bitbucket, JIRA, Figma  
+> 🧠 Interests: Scalable UI architecture, performance optimization, efficient collaboration=
