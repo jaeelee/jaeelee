@@ -1,5 +1,9 @@
 ## Jae-eun Lee — Frontend Developer
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{jaeelee}?pet-id=1" width="1000" height="120"/>
+</a>
+
 I'm a frontend developer specializing in **React and React Native**, focusing on service architecture and performance optimization.  
 I enjoy solving problems from real-world services, improving **code maintainability and quality**.
 
